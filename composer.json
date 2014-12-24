@@ -17,7 +17,6 @@
     "require": {
         "mdanter/ecc": "0.2.0",
         "php": ">=5.3.3",
-        "ext-gmp": "*",
         "ext-mcrypt": "*"
     },
     "suggest": {
